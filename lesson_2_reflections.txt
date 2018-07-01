@@ -3,6 +3,17 @@ test
 
 added
 
+
 111111-master
 
-222222-Master
+deleted in merge conflict 222222-Master
+
+Now created br1
+
+new commit in br1
+
+deleted in merge conflictcommit 2 br1
+
+deleted in merge conflictcommit 3 br1
+
+commit 4 br1
